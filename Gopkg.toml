@@ -1,0 +1,8 @@
+[[constraint]]
+  branch = "master"
+  name = "github.com/Sirupsen/logrus"
+
+[[constraint]]
+  branch = "master"
+  name = "github.com/jaym/gobar"
+
